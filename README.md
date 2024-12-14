@@ -20,9 +20,9 @@ Soy un **desarrollador de software en formación**, con conocimientos en **desar
   *IES Velázquez*  
   *Sept 2024 - Junio 2025*  
 
-- **Generación Digital: Agentes del Cambio** *(En curso)*  
+- **Generación Digital: Agentes del Cambio**  
   *EOI Core Networks*  
-  *Sept 2024 - Junio 2025*  
+  *Sept 2023 - Dic 2023*  
 
 ---
 
@@ -49,8 +49,8 @@ Soy un **desarrollador de software en formación**, con conocimientos en **desar
 - **Lenguajes de Programación**: Java ☕, Python 🐍, Kotlin, PHP
 - **Desarrollo Web**: HTML, JavaScript 🔟, .NET
 - **Desarrollo Móvil**: Desarrollo Android 
-- **Bases de Datos**: MySQL, SQLite
-- **Herramientas**: Git ⚡️, GitHub, Visual Studio Code, Android Studio
+- **Bases de Datos**: MySQL, SQLite, MongoDB
+- **Herramientas**: Git ⚡️, GitHub, Visual Studio Code, Android Studio, Eclipse, Netbeans, Jetbrains Suite
 
 ---
 
